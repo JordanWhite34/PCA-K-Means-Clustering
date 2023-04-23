@@ -32,3 +32,7 @@ Run the Python or Jupyter Notebook files for each problem
 Attached below are screenshots of the results of this project
 
 <img width="486" alt="Screenshot 2023-04-22 at 6 36 40 PM" src="https://user-images.githubusercontent.com/81645440/233814629-4ebf0cb2-6b90-4a40-b037-1a8872bf2be5.png">
+
+<img width="489" alt="Screenshot 2023-04-22 at 6 38 52 PM" src="https://user-images.githubusercontent.com/81645440/233814677-82ca51a5-17ff-423a-9ed9-8184bfefdf5a.png">
+
+<img width="476" alt="Screenshot 2023-04-22 at 6 39 14 PM" src="https://user-images.githubusercontent.com/81645440/233814690-ba2f0234-f5b0-4972-a3bb-4e38c9900227.png">
